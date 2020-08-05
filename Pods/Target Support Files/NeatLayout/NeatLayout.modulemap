@@ -1,0 +1,6 @@
+framework module NeatLayout {
+  umbrella header "NeatLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

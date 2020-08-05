@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-FunBoxTest/Pods-FunBoxTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/NeatLayout/NeatLayout.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework

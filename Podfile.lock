@@ -1,0 +1,26 @@
+PODS:
+  - NeatLayout (1.1.0)
+  - Realm (5.2.0):
+    - Realm/Headers (= 5.2.0)
+  - Realm/Headers (5.2.0)
+  - RealmSwift (5.2.0):
+    - Realm (= 5.2.0)
+
+DEPENDENCIES:
+  - NeatLayout
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - NeatLayout
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  NeatLayout: aed0cc430b95a6f927e0c6292678b0d39245a7c5
+  Realm: f749c723e272f08fdf1939af5e61d2bd09b203e8
+  RealmSwift: bf0ab78b52c5bafba8b3ad73be8dfb4c1ea5cf01
+
+PODFILE CHECKSUM: 3d6c354c52eef4ff8454adb1b916a25c6b5c222d
+
+COCOAPODS: 1.9.3
